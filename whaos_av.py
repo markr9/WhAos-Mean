@@ -1321,7 +1321,7 @@ class Gui2:
         self.btnDel.configure(command=lambda:self.removeLine(),state=DISABLED)
         self.btnCal.configure(command=lambda:self.calculate())
     
-#programe
+#program
 win=Tk()
 ops=Mode()
 gui=Gui1(win,ops)
