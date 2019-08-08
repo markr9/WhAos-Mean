@@ -23,7 +23,7 @@ class Gui1:
         self.commands()
         
     def widgits(self):        
-        self.title=Label(self.win,text='Warhammer Age of Sigma',font=('',12))
+        self.title=Label(self.win,text='Warhammer Age of Sigmar',font=('',12))
         self.btnSingle=Button(self.frame,text='Single')
         self.btnCompare=Button(self.frame,text='Compare')
         
