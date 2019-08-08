@@ -1,4 +1,4 @@
-# WhAos-mean
+# WhAos-Mean
 Warhammer AoS mean calculator
 
 Calculator to work out the mean amount of damage by a model/unit/group.
